@@ -1,20 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/Sunilkumarchoudari/sunilkumarchoudari.github.io/blob/code/src/images/logo.png" width="100" />
-</div>
-<h1 align="center">
-  Portfolio Website Version 1.0
-</h1>
-<p align="center">
-  The first iteration of <a href="https://sunilkumarchoudari.github.io/" target="_blank">sunilkumarchoudari.github.io</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
-</p>
-
-<div align="center">
-  <img alt="Demo" src="https://github.com/Sunilkumarchoudari/sunilkumarchoudari.github.io/blob/code/src/images/demo.png" />
-</div>
-
-### TL;DR
-
-Yes, you can fork this repo. Please give proper credit by to [brittanychiang](https://www.instagram.com/bchiang7/). Thanks!
 
 ## 🛠 Installation & Set Up
 
